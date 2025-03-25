@@ -1,1 +1,1 @@
-# atualizado
+# basic easy newsletter
